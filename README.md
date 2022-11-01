@@ -6,11 +6,13 @@ This webring contains the students' CVs.
 
 * Edit webring/data/members.json
 * Add a record following this format:
-    {
-        "title": "Καμπουρόπουλος Π.",
-        "url": "https://panoskam.github.io/",
-        "feed": null
-    }
+
+        {
+            "title": "Καμπουρόπουλος Π.",
+            "url": "https://panoskam.github.io/",
+            "feed": null
+        }
+(note the title formatting: last name and then one letter of your first name)        
 * Commit and Send Pull Request
 
 ## Features
