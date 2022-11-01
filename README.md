@@ -13,6 +13,7 @@ This webring contains the students' CVs.
             "feed": null
         }
 * Commit and Send Pull Request
+
 (note the title formatting: last name, then first letter of your first name and a period)
 
 ## How to add Banner Embed code to your CV
