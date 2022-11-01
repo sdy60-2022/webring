@@ -12,8 +12,8 @@ This webring contains the students' CVs.
             "url": "https://panoskam.github.io/",
             "feed": null
         }
-(note the title formatting: last name and then one letter of your first name)        
 * Commit and Send Pull Request
+(note the title formatting: last name, then first letter of your first name and a period)
 
 ## How to add Banner Embed code to your CV
 
