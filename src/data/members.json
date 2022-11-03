@@ -24,7 +24,8 @@
         "url": "https://gregtsag.github.io",
         "feed": null
     },
-    {   "title": "Θωμά Κ.",
+    {   
+        "title": "Θωμά Κ.",
         "url": "https://katethoma.github.io/kateCV/",
         "feed": null
     },
@@ -38,10 +39,9 @@
         "url": "https://stdi.github.io/stdi-cv/",
         "feed": null
     },
-        {
-        "title": "Nikos Andreadakis",
+    {
+        "title": "Andreadakis N.",
         "url": "https://nikosandreadakis.github.io/",
         "feed": null
     }
-    
 ]
