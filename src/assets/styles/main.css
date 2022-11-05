@@ -504,6 +504,8 @@ pre[class*='language-'] {
 .map__center {
     fill: #ffffff;
     fill-opacity: 0.25;
+    stroke: #6f6f6f;
+    stroke-width: 1;
 }
 
 .map__image {
