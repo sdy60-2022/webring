@@ -10,7 +10,7 @@
         <circle cx="{{ w/2 }}" cy="{{ h/2 }}" r="{{ ri }}" />
     </clipPath>
     {% if meta.image %}
-        <image class="map__image" x="{{ w/2 - ri }}" y="{{ h/2 - ri }}" clip-path="url(#map-image-mask)" xlink:href="/assets/images/{{ meta.image }}" width="{{ ri*3 }}" height="{{ ri*3 }}" />
+        <image class="map__image" x="{{ w/2 - ri }}" y="{{ h/2 - ri }}" clip-path="url(#map-image-mask)" xlink:href="/assets/images/{{ meta.image }}" width="{{ ri*2 }}" height="{{ ri*2 }}" />
     {% else %}
         <circle cx="{{ w/2 }}" cy="{{ h/2 }}" r="{{ ri }}" class="map__center"></circle>
     {% endif %}
