@@ -518,8 +518,10 @@ pre[class*='language-'] {
 }
 
 .map__node:hover {
-    fill: #7b16ff;
-    stroke-opacity: 1
+    fill: none;
+    stroke-width: 1;
+    stroke-opacity: 0;
+    stroke: #7b16ff
 }
 
 .map__tooltip {
