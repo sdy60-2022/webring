@@ -507,7 +507,7 @@ pre[class*='language-'] {
 }
 
 .map__image {
-/*    border-radius: 50%*/
+    border-radius: 0%;
 }
 
 .map__node {
