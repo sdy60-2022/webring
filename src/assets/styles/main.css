@@ -523,7 +523,7 @@ pre[class*='language-'] {
 }
 
 .map__tooltip {
-    font-weight: bold
+    font-weight: normal
 }
 
 .map--dense .map__tooltip {
