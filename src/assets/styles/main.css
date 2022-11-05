@@ -503,11 +503,11 @@ pre[class*='language-'] {
 
 .map__center {
     fill: #ffffff;
-    fill-opacity: 0;
+    fill-opacity: 0.25;
 }
 
 .map__image {
-    border-radius: 0%;
+    border-radius: 50%;
 }
 
 .map__node {
