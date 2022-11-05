@@ -518,7 +518,7 @@ pre[class*='language-'] {
 }
 
 .map__node:hover {
-    fill: none;
+    fill: white;
     stroke-width: 1;
     stroke-opacity: 1;
     stroke: #0;
