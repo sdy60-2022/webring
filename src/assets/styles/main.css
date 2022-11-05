@@ -492,7 +492,7 @@ pre[class*='language-'] {
 
 .map__circle {
     fill: transparent;
-    stroke: black;
+    stroke: #6f6f6f;
     stroke-width: 1
 }
 
@@ -511,7 +511,7 @@ pre[class*='language-'] {
 }
 
 .map__node {
-    fill: #6f6f6e;
+    fill: #6f6f6f;
     stroke-width: 5;
     stroke-opacity: 0;
     stroke: #7b16ff
