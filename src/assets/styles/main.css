@@ -161,7 +161,7 @@ h3,
 }
 
 a {
-    color: #7b16ff;
+    color: #333333;
     font-weight: 500;
     text-decoration: none
 }
@@ -477,7 +477,7 @@ pre[class*='language-'] {
 }
 
 .webring__member:not(:last-child) {
-    border-bottom: 1px solid #c9d3e4
+    border-bottom: 1px solid #d3d3d3
 }
 
 .webring__member:nth-child(even) {
