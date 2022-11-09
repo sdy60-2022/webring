@@ -527,7 +527,8 @@ pre[class*='language-'] {
 }
 
 .map__tooltip {
-    font-weight: normal
+    font-weight: normal;
+    font-size: 90%;
 }
 
 .map--dense .map__tooltip {
